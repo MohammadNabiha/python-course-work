@@ -1,0 +1,52 @@
+PROCEDURAL AND OBJECT ORIENTED PROGRAMMING:
+
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data in the form of fields (attributes) and code in the form of procedures (methods).
+ This approach focuses on the objects that developers want to manipulate rather than the logic required to manipulate them, making it well-suited for large, complex, and actively maintained software. 
+The Four Pillars of OOP
+These fundamental principles are used across almost all object-oriented languages to organize and secure code: 
+Encapsulation: Bundles data and methods into a single unit (a class) and restricts direct access to some of the object's components. This protects data integrity and is often referred to as "data hiding." 
+
+Abstraction: Hides complex internal implementation details and only reveals essential features. For example, a driver interacts with a car’s pedals and steering wheel without needing to understand how the engine works internally. 
+
+Inheritance: Allows a new class (subclass) to acquire properties and behaviors from an existing class (superclass). This promotes code reusability and establishes a natural hierarchy. 
+
+Polymorphism: The ability for different classes to be treated as instances of the same parent class through a single interface. For instance, a single "draw" method can behave differently whether it's drawing a circle or a square. 
+
+Core Building Blocks
+Classes: The blueprint or template for creating objects. You can learn more about defining them in W3Schools' C++ OOP Tutorial.
+Objects: Specific instances of a class created with actual data. For example, if "Car" is a class, "myToyota" is an object.
+Methods: Functions defined inside a class that describe the behaviors of an object.
+Attributes : Variables that define the state or characteristics of an object. 
+
+TOKEN: The smallest unit of a program
+
+divided into 5 types:
+1)Identifiers: var,functioon,class name, module name,package name
+2)Literal: all data types (int,float,string,boolean,list,tupple)
+3)Keywords: predefined words (if else,for,from)
+4)operations: +,-,>=,<=
+5)special characters:,!
+ n=10
+ if n%2==0:
+    print("Even")
+ else:
+    print("odd")
+
+n-variable
+= - operation
+10 - literal
+n- variable
+
+COMMENTS: improves the code readability
+# - single line comment
+''' -multiple line comments
+STATEMENT: single line of code
+list, set. dictionary ----mutable 
+tupple--- ordered immutable fixed data
+list-----mutable different data
+
+
+
+
+
+
