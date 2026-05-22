@@ -1,0 +1,54 @@
+TYPE CONVERSIONS:
+WE CANT CONVERT A INTEGER INTO LIST
+int --->float, str, complex, bool
+float ---->int, str, complex, bool
+complex---->str, bool
+str----> int(numerics),float(numerics),complex(numerics),list,tuple,set,boolean
+list---->str,tuple,set,bool
+tuple--->str, list ,set ,bool
+set----->str ,list,tuple,bool
+dict----->str,list,tuple,set,bool
+bool------>int,float,complex,str
+----------------------------------------------------------------------------------------------------------------------------
+Print statements:
+
+1)
+a=10
+b=10.2
+c='python'
+print(a,b,c)
+
+
+2)
+print('a=',a,'b=',b,'c=',c,sep='')
+
+3)
+print('a=',a,'b=',b,'c=',c,sep='\n')
+
+4)
+print('a=',a,'b=',b,'c=',c,sep='\t')
+
+5)
+print('a=',a,'b=',b,'c=',c,sep='\n\n')
+
+6)
+print('a=',a,'b=',b,'c=',c,sep='\t',end='\n\n')
+
+7)
+
+print('a=',a,'b=',b,'c=',c,sep='\t',end='@@@@')
+
+8)
+print(f'a:{a},b:{b},c:{c}')
+
+9)
+
+print('a=%d b=%f c=%s'%(a,b,c))
+
+10)
+print('a={} b={} c={}'.format(a,b,c))
+
+11)
+print('a={2} b={0} c={1}'.format(a,b,c))
+
+-----------------------------------------------------------------------------------------------------------------------------------
