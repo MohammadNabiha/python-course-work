@@ -1,0 +1,24 @@
+STRINGS:
+#collections of characters ,immutable-memory reference can be changed
+#operations of strings: 
+1)concatenation 
+2)repetition: individual characters
+3)Indexing------->starts from 0 to length-1
+var[index]
+positive indexing: Niharika Mounika
+                   012345......
+Negative indexing:..........-3-2-1
+spaces also have index 
+4)sclicing: when you want group of characters 
+var[start:stop+1:step]
+var[0:len(var):1]...start default value=0
+                    step default value=1
+5)membership
+
+METHODS:
+1)length
+2)sorted
+3)max
+4)min
+5)order-to know ascii values from a letter.....ord(a)
+6)chr-to get ascii value from a number ........chr(99)
